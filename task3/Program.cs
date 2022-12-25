@@ -33,8 +33,23 @@ double[] userarray = new double [len];
 CreateArray(userarray);
 PrintArray(userarray);
 
-double min = Int32.MinValue;
-double.max = Int32.MaxValue;
+double min = userarray[0];
+double max = userarray[0];
 
-for (int i)
+for (int i = 0; i < userarray.Length; i ++)
+{
+    if (userarray[i] >= max)
+    {
+        max = userarray[i];
+    }
+    if (userarray[i] < min)
+    {
+        min = userarray[i];
+    } 
+       
+}
 
+double totalvalue = max - min;
+
+Console.WriteLine();
+Console.WriteLine($"Разница между максимальным и минимальным значением равна {totalvalue}");
