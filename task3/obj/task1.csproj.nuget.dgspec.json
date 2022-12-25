@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Prog\\C3\\Lesson_4\\Homework_5\\task1\\task1.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Prog\\C3\\Homework_5\\task3\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Prog\\C3\\Lesson_4\\Homework_5\\task1\\task1.csproj": {
+    "C:\\Users\\USER\\Desktop\\Prog\\C3\\Homework_5\\task3\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Prog\\C3\\Lesson_4\\Homework_5\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Prog\\C3\\Homework_5\\task3\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Prog\\C3\\Lesson_4\\Homework_5\\task1\\task1.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Prog\\C3\\Homework_5\\task3\\task1.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Prog\\C3\\Lesson_4\\Homework_5\\task1\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Prog\\C3\\Homework_5\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -26,8 +26,15 @@ void PrintArray(double[] array1)
 }
 
 
-int userv1 = Promt("Введите длину массива");
+int len = Promt("Введите длину массива");
+double[] userarray = new double [len];
 
-CreateArray(userv1);
-PrintArray(total1);
+
+CreateArray(userarray);
+PrintArray(userarray);
+
+double min = Int32.MinValue;
+double.max = Int32.MaxValue;
+
+for (int i)
 
